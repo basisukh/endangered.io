@@ -103,6 +103,12 @@ p {
   padding: 4.5%;
 }
 
+.gold {
+  background-color: #d4af37;
+}
+.platinum {
+  background-color: #e5e4e2;
+}
 .icon {
   color: #cf1b1b;
   margin-bottom: 1rem;
